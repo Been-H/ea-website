@@ -196,6 +196,6 @@ a {
 .destinations {
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 800px 800px;
+    grid-template-rows: 600px 600px;
     margin: auto;
 }
