@@ -28,7 +28,7 @@ img {
 }
 
 main {
-    margin: 70px;
+    margin: 30px;
 }
 
 .title {
@@ -189,13 +189,13 @@ a {
 .info {
     padding-top: 90px;
     padding-bottom: 90px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .destinations {
     display: grid;
-    grid-template-columns: 720px 720px;
-    grid-template-rows: 700px 700px;
-    margin: 0 auto 0 auto;
+    grid-template-columns: 700px 700px;
+    grid-template-rows: 800px 800px;
+    margin: auto;
 }
