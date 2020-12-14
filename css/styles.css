@@ -15,7 +15,7 @@ img {
 }
 
 .e {
-    color: rgba(255,146,52,1);
+    color: #ff7403;
     font-weight: bolder;
 }
 
@@ -55,7 +55,7 @@ header {
     position: sticky;
     top: 0;
     justify-content: center;
-    background-color:  rgba(255,146,52,1);
+    background-color:  #ff7403;
     z-index: 1;
 }
 
@@ -188,13 +188,13 @@ a {
 .info {
     padding-top: 90px;
     padding-bottom: 90px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 .destinations {
     display: grid;
-    grid-template-columns: 600px 600px;
+    grid-template-columns: 720px 720px;
     grid-template-rows: 700px 700px;
     margin: 0 auto 0 auto;
 }
