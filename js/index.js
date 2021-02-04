@@ -1,4 +1,4 @@
-
+//Not sure why I didn't just construct a constant fo these things rather than just doing getElemntById over an over but it is what it is
 function dropdown() {
   document.getElementById("dd").classList.toggle("show");
 
